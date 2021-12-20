@@ -1,12 +1,12 @@
 # Fuzhounese IME 
 
 ## About
-- Based on [only3km repo]https://github.com/only3km/ciklinbekin
-- the romanization scheme used is based on [yngping]https://yngping.zingzeu.org/spec/v0.4.0-preview2/main.html
+- Based on [only3km repo](https://github.com/only3km/ciklinbekin)
+- the romanization scheme used is based on [yngping](https://yngping.zingzeu.org/spec/v0.4.0-preview2/main.html)
 - This IME will soon be updated with more word list from matsu, malaysia fuzhounese etc instead of just characters
 
 ## Installation Guide
-- Please look at [the read me at Min Language Rime]https://github.com/Language-Preservation-Community/Community-Min-Language-Rime for installation guide
+- Please look at [the read me at Min Language Rime](https://github.com/Language-Preservation-Community/Community-Min-Language-Rime) for installation guide
 
 ## Sources
 - 戚林八音校注, 2001, 蔡士泮, 陳他, 李如龍, 王升魁(著) 的 字
